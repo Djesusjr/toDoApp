@@ -1,16 +1,14 @@
-# React + Vite
+# ToDo App - React & Popover API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Proyecto de gestión de tareas realizado con React.
 
-Currently, two official plugins are available:
+## 🚀 Funcionalidades
+- **CRUD Completo:** Crear, Leer, Editar y Eliminar tareas.
+- **Estado de Tareas:** Mover tareas a "Completadas" y revertirlas a "Pendientes".
+- **Popover API:** Edición de tareas mediante la nueva API nativa de HTML.
+- **Persistencia:** Uso de LocalStorage para mantener los datos.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Instalación
+1. Clonar el repo: `git clone [URL_DEL_REPO]`
+2. Instalar dependencias: `npm install`
+3. Ejecutar: `npm run dev`
