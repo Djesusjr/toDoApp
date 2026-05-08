@@ -9,6 +9,6 @@ Proyecto de gestión de tareas realizado con React.
 - **Persistencia:** Uso de LocalStorage para mantener los datos.
 
 ## 🛠️ Instalación
-1. Clonar el repo: `git clone [URL_DEL_REPO]`
+1. Clonar el repo: `git clone https://github.com/Djesusjr/toDoApp.git`
 2. Instalar dependencias: `npm install`
 3. Ejecutar: `npm run dev`
